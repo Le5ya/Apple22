@@ -10,6 +10,7 @@
 	justify-content: center;
 	align-items: center;
 	margin-bottom: 16px;
+	
 }
 .product__info {
 	display: flex;
@@ -56,7 +57,7 @@
 }
 @media (min-width: 1024px) {
 	.product {
-		width: 370px;
+		width: 350px;
 	}
 	.product__image {
 		width: 255px;
